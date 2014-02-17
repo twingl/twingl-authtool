@@ -1,0 +1,9 @@
+debug:          false
+client_id:      "XXXX"
+client_secret:  "XXXX"
+
+auth_site:      "http://twin.gl/"
+api_site:       "http://api.twin.gl/"
+#api_site:       "http://sandbox.twin.gl/"
+
+redirect_uri:   "urn:ietf:wg:oauth:2.0:oob" # Use this URL to display the code
